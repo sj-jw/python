@@ -12,6 +12,7 @@ for i in range (1, 101):
     if sj == False:
         list1.append(i)
        
+       
 if n in list1:
     print("소수가아닙니다")
 else:
